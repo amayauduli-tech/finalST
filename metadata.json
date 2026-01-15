@@ -1,0 +1,5 @@
+{
+  "name": "Optometry Study Tracker",
+  "description": "A specialized study tracking application for optometry students to manage subjects, chapters, repetitions, assessments, and exam goals.",
+  "requestFramePermissions": []
+}
